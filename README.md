@@ -1,4 +1,4 @@
-#  User Authentication
+#  User Authentication Using MERN Stack
 Implemented a user authentication system with login, signup, and logout functionalities using React for the frontend and MongoDB with Node.js for the backend, ensuring secure user sessions and seamless navigation. 
 
 # Images
